@@ -10,3 +10,7 @@
 /sfml-network-2.dll
 /sfml-system-2.dll
 /sfml-window-2.dll
+src/Enemy.o
+src/GameWorld.o
+src/Main.o
+src/Texts.o
